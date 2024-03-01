@@ -39,7 +39,6 @@ function App(): JSX.Element {
           style={{
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
-          <Text>Start here</Text>
           <Pressable role="checkbox">
             <Text>i am a checkbox</Text>
           </Pressable>
